@@ -45,5 +45,5 @@ quality of response and is primed for scale.
 ### Improve Overall Security Posture: 
 The sum of all aforementioned benefits is an overall improvement of the customer security posture and a corresponding reduction in security and business risk.
 
-### Learning Lab
+## Learning Lab
 https://developer.cisco.com/learning/modules/SecureX-orchestration
